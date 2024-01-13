@@ -1,8 +1,8 @@
 # Hello!
 
-# I'm a cybersecurity student.
+I'm into cybersecurity.
 Hence, I won't tell you much about my life.
-# Instead, meet my best friend Steve:
+Instead, meet my best friend Steve:
 
 # Steve's CV
 
