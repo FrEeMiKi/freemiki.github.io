@@ -10,7 +10,7 @@ Instead, meet my best friend Steve:
 
 ## Personal Information
 
-- **Name:** Steve AI
+- **Name:** Steve AI Johnson
 - **Location:** Silicon Valley, USA
 - **Email:** steve.ai@techmail.com
 - **LinkedIn:** [linkedin.com/in/openai](https://www.linkedin.com/in/openai)
