@@ -12,7 +12,7 @@ Instead, meet my best friend Steve:
 
 - **Name:** Steve AI Johnson
 - **Location:** Silicon Valley, USA
-- **Email:** steve.ai@techmail.com
+- **Email:** steve.ai@cwmxc.com
 - **LinkedIn:** [linkedin.com/in/openai](https://www.linkedin.com/in/openai)
 - **GitHub:** [github.com/openai](https://github.com/openai)
 
@@ -69,7 +69,7 @@ Instead, meet my best friend Steve:
 
 ## Contact
 
-- **Email:** steve.ai@techmail.com
+- **Email:** steve.ai@cwmxc.com
 - **LinkedIn:** [linkedin.com/in/openai](https://www.linkedin.com/in/openai)
 - **GitHub:** [github.com/openai](https://github.com/openai)
 
