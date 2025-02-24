@@ -1,6 +1,6 @@
 # Hello!
 
-I'm into cybersecurity.
+I choose to be secure.
 
 Hence, I won't tell you much about my life.
 
